@@ -1,0 +1,22 @@
+{
+  "name": "Handlebars-Exercise-C-Sten",
+  "homepage": "https://github.com/nss-day-cohort-17/Handlebars-Exercise-C-Sten",
+  "authors": [
+    "J-Waddell <waddelljesse1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.5",
+    "jQuery": "^3.1.1"
+  }
+}
